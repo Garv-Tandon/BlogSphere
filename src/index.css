@@ -1,0 +1,8 @@
+body {
+  background-color: #f9f2e7; /* Light brown */
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.bg-light-brown {
+  background-color: #f9f2e7 !important;
+}
